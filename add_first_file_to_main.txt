@@ -1,1 +1,2 @@
 1.add and push github
+2.add and commit, but not push github
